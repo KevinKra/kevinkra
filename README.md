@@ -1,16 +1,24 @@
-### Hi there 👋
 
-<!--
-**KevinKra/kevinkra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+![KevinKra's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevinKra&show_icons=true&theme=dracula)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Hi there, welcome to my Github profile 👋
+
+I am a frontend developer and passionate programmer. I enjoy the process of learning and the challenges that come with building meaningful applications. Pretty much all of the projects post here on this Github account are back when I was in my coding bootcamps (can't share private client work), though perhaps I'll rebuild one of my personal private projects in a public repo so things start appearing on my chart. 
+
+---
+
+#### Favorite Tools 
+#####  Typescript | React/NextJS | NodeJS | Redux-RTK
+#####  Emotion | Styled-Components | Material-UI
+
+---
+
+#### What I'm up to
+
+- 🤖 I’m currently working on a: **Language Learning Platform**
+- 🌱 I’m currently learning: **React-Testing-Library / Cypress**
+- 💬 Ask me about: **Frontend/Backend**
+- 📫 How to reach me: **kevpkra@gmail.com**
+- 😄 Pronouns: **he/him**
+- ⚡ Fun fact: **The heads on Easter Island have bodies.** 
