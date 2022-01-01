@@ -12,13 +12,3 @@ I am a frontend developer and passionate programmer. I enjoy the process of lear
 #####  Typescript | React/NextJS | NodeJS | Redux-RTK
 #####  Emotion | Styled-Components | Material-UI
 
----
-
-#### What I'm up to
-
-- 🤖 I’m currently working on a: **Language Learning Platform**
-- 🌱 I’m currently learning: **React-Testing-Library / Cypress**
-- 💬 Ask me about: **Frontend/Backend**
-- 📫 How to reach me: **kevpkra@gmail.com**
-- 😄 Pronouns: **he/him**
-- ⚡ Fun fact: **The heads on Easter Island have bodies.** 
